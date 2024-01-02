@@ -1,0 +1,3 @@
+us:guest
+pw:guest
+sv:localhost:15672
